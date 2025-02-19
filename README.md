@@ -1,3 +1,3 @@
 # Angular Material
 
-This is a project that I developed while studying Angular Material 15.
+This is a project that I've developed while studying Angular Material 15.
